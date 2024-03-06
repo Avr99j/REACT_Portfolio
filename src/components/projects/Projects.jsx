@@ -1,9 +1,9 @@
 import React from 'react'
 import './projects.css'
-import IMG1 from '../../assets/weatherDash.jpg'
-import IMG2 from '../../assets/weatherDash.jpg'
-import IMG3 from '../../assets/weatherDash.jpg'
-import IMG4 from '../../assets/weatherDash.jpg'
+// import IMG1 from '../../assets/weatherDash.jpg'
+// import IMG2 from '../../assets/weatherDash.jpg'
+// import IMG3 from '../../assets/weatherDash.jpg'
+// import IMG4 from '../../assets/weatherDash.jpg'
 import skills from '../../data/projects.json'
 
 import { useState, useEffect } from 'react'
