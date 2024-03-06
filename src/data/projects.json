@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "../assets/weatherDash.png",
+        "image": "/weatherDash.jpg",
         "title": "Weather Dashboard",
         "github": "https://github.com/Avr99j/weatherDashboard",
         "demo": "avr99j.github.io/weatherDashboard/"
@@ -30,15 +30,15 @@
     {
         "id": 5,
         "image": "/weatherDash.jpg",
-        "title": "README.md Generator",
-        "github": "https://github.com/Avr99j/README_Generator",
-        "demo": "https://avr99j.github.io/README_Generator/"
+        "title": "Workday Scheduler",
+        "github": "https://github.com/Avr99j/workDayScheduler",
+        "demo": "https://avr99j.github.io/workDayScheduler/"
     },
     {
         "id": 6,
         "image": "/weatherDash.jpg",
-        "title": "README.md Generator",
-        "github": "https://github.com/Avr99j/README_Generator",
-        "demo": "https://avr99j.github.io/README_Generator/"
+        "title": "Python Interest Calculator",
+        "github": "https://github.com/Avr99j/vftvk-Simple-Interest-Calculator",
+        "demo": "https://avr99j.github.io/vftvk-Simple-Interest-Calculator/"
     }
 ]
