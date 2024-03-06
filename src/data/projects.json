@@ -22,7 +22,7 @@
     },
     {
         "id": 4,
-        "image": "../src/assets/Readme.png",
+        "image": "./src/assets/Readme.png",
         "title": "README.md Generator",
         "github": "https://github.com/Avr99j/README_Generator",
         "demo": "https://avr99j.github.io/README_Generator/"
