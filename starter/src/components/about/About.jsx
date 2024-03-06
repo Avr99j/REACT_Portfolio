@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME1 from '../../assets/me.png'
+import ME1 from '../../assets/me1.png'
 import { FaAward } from "react-icons/fa";
 import { FaUsersLine } from "react-icons/fa6";
 import { LuFolderGit2 } from "react-icons/lu";
