@@ -1,4 +1,5 @@
 import React from 'react'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import About from './components/about/About'
@@ -10,15 +11,17 @@ import Footer from './components/footer/Footer'
 
 function App() {
   return (
-    <>
+    <Router>
       <Header />
       <Nav />
-      <About />
-      <Experience />
-      <Projects />
-      <Contact />
+      <Routes>
+        <Route path="/about" element={<About />} />
+        <Route path="/experience" element={<Experience />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
       <Footer />
-    </>
+    </Router>
   )
 }
 

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "/weatherDash.jpg",
+        "image": "../assets/weatherDash.jpg",
         "title": "Weather Dashboard",
         "github": "https://github.com/Avr99j/weatherDashboard",
         "demo": "avr99j.github.io/weatherDashboard/"

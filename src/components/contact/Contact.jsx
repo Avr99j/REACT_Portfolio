@@ -50,7 +50,7 @@ const Contact = () => {
                     </article>
                     <article className='contact__option'>
                         <FaWhatsapp className='contact__option-icon' />
-                        <h4>Email</h4>
+                        <h4>Text</h4>
                         <h5>Whatsapp</h5>
                         <a href="https://wa.me/+447496999661?text=urlencodedtext" target="_blank">Send a message</a>
                     </article>
