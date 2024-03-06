@@ -29,14 +29,14 @@
     },
     {
         "id": 5,
-        "image": "/weatherDash.jpg",
+        "image": "src/assets/TaskScheduler.jpg",
         "title": "Workday Scheduler",
         "github": "https://github.com/Avr99j/workDayScheduler",
         "demo": "https://avr99j.github.io/workDayScheduler/"
     },
     {
         "id": 6,
-        "image": "/weatherDash.jpg",
+        "image": "src/assets/Calculator.jpg",
         "title": "Python Interest Calculator",
         "github": "https://github.com/Avr99j/vftvk-Simple-Interest-Calculator",
         "demo": "https://avr99j.github.io/vftvk-Simple-Interest-Calculator/"
