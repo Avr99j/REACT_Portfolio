@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "image": "src/assets/weatherDash.jpg",
+        "image": "../src/assets/weatherDash.jpg",
         "title": "Weather Dashboard",
         "github": "https://github.com/Avr99j/weatherDashboard",
         "demo": "https://avr99j.github.io/weatherDashboard/"
     },
     {
         "id": 2,
-        "image": "src/assets/Lyrics.jpeg",
+        "image": "../src/assets/Lyrics.jpeg",
         "title": "RhymeRadar Lyrics / Concert Finder",
         "github": "https://github.com/Avr99j/RhymeRadar",
         "demo": "https://avr99j.github.io/RhymeRadar/"
     },
     {
         "id": 3,
-        "image": "src/assets/Password.jpeg",
+        "image": "../src/assets/Password.jpeg",
         "title": "Password Generator",
         "github": "https://github.com/Avr99j/passwordGenerator",
         "demo": "https://avr99j.github.io/passwordGenerator/"
     },
     {
         "id": 4,
-        "image": "src/assets/Readme.png",
+        "image": "../src/assets/Readme.png",
         "title": "README.md Generator",
         "github": "https://github.com/Avr99j/README_Generator",
         "demo": "https://avr99j.github.io/README_Generator/"
     },
     {
         "id": 5,
-        "image": "src/assets/TaskScheduler.jpg",
+        "image": "../src/assets/TaskScheduler.jpg",
         "title": "Workday Scheduler",
         "github": "https://github.com/Avr99j/workDayScheduler",
         "demo": "https://avr99j.github.io/workDayScheduler/"
     },
     {
         "id": 6,
-        "image": "src/assets/Calculator.jpg",
+        "image": "../src/assets/Calculator.jpg",
         "title": "Python Interest Calculator",
         "github": "https://github.com/Avr99j/vftvk-Simple-Interest-Calculator",
         "demo": "https://avr99j.github.io/vftvk-Simple-Interest-Calculator/"
