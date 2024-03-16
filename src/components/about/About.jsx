@@ -37,36 +37,13 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        Skilled in HTML, CSS, JavaScript, ReactJS, jQuery,
-                        Web APIs, Third-Party APIs, Server APIs, and
-                        Bootstrap for front end development, I specialise in
-                        crafting captivating and responsive user interfaces
-                        to industry standards. As an automation expert
-                        proficient in Java, JavaScript, and Python, I excel in
-                        developing efficient frameworks and delivering end-
-                        to-end solutions seamlessly.
-                        Renowned as a Technical Virtuoso, I navigate the
-                        SDLC and STLC with precision, translating
-                        requirements into robust automation frameworks
-                        and scripts. A testing aficionado, I leverage tools
-                        like Selenium, Appium, Robot, Tosca, POSTMAN,
-                        ReadyAPI MOCHA, CHAI, WebdriverIO, ELK Stack,
-                        GitHub Actions, AWS CodeBuild/CodePipeline,
-                        AWS S3 Storage & EC2 Management, JIRA, Docker
-                        and more across Agile and Waterfall SDLC
-                        methodologies.
-                        Expertise extends to data management, extracting
-                        insights from MySQL, facilitating data-driven
-                        decision-making. I've implemented Machine
-                        Learning models using Python libraries like Scikit-
-                        learn and TensorFlow, recognized as an AI/ML
-                        Alchemist exploring neural networks, reinforcement
-                        learning, and clustering algorithms. I provide
-                        guidance from fundamentals to advanced topics,
-                        excelling in evaluating predictive performance and
-                        navigating the landscape of deep learning—a unique
-                        blend of technical expertise and innovation for
-                        success in dynamic environments.
+                        Renowned as a Technical Virtuoso, I navigate the SDLC and STLC with precision.<br></br>
+                        <strong>DevOps Engineering</strong> - Linux(ARM & X86 architecture), Shell / Bash Scripting, Creating and Maintaining VMs & Servers, Vagrant, Rosetta, Developing and maintaining CI /CD pipelines, Containerization - Docker images & containers, Kubernetes, Terraform, YAML file configurations, GitHub Actions, Azure DevOps, AWS CodeBuild, AWS CodePipeline, Jenkins, Ansible.<br></br>
+                        <strong>Software Development</strong> - HTML, CSS, JavaScript, Node.js, ReactJS, JSX, jQuery, APIs, and Bootstrap.<br></br>
+                        <strong>Cloud platforms</strong> - AWS & MS Azure<br></br>
+                        <strong>Operating Systems</strong> - Windows, MacOS, Linux, Ubuntu, Fedora, CentOS.<br></br>
+                        <strong>Automation Architect</strong> - Java, Selenium, Appium, BDD, Cucumber, Gherkin, Page Object Model, Robot, Tosca, POSTMAN, ReadyAPI, MOCHA, Jest, CHAI, WebdriverIO, ELK / OLK Stack, Building CI /CD pipelines, JIRA, Keyword driven / Data driven/ Hybrid frameworks and more across Agile and Waterfall SDLC methodologies.<br></br>
+                        <strong>Data Science, ML and AI algorithms</strong> - AI/ML Alchemist providing guidance from fundamentals to advanced topics, excelling in evaluating predictive performance and navigating the landscape of deep learning. Python, Sci-kit learn, Tensorflow, Numpy, Pandas, Matplotlib, Seaborn, Decision Trees, KNNs, Logistic Regression, SVM, Neural Networks, CNN, Deep Learning, HyperParameters, Reinforcement Learning.
                     </p>
                     <a href="#contact" className='btn btn-primary'>Let's Connect</a>
                 </div>

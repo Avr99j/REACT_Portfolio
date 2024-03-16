@@ -16,20 +16,6 @@ const Experience = () => {
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>HTML</h4>
-                                <small className='' text-light>Experienced</small>
-                            </div>
-                        </article>
-                        <article className='experience__details'>
-                            <BsFillPatchCheckFill className='experience__details-icon' />
-                            <div>
-                                <h4>CSS</h4>
-                                <small className='' text-light>Intermediate</small>
-                            </div>
-                        </article>
-                        <article className='experience__details'>
-                            <BsFillPatchCheckFill className='experience__details-icon' />
-                            <div>
                                 <h4>JavaScript</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
@@ -37,7 +23,7 @@ const Experience = () => {
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>Bootstrap</h4>
+                                <h4>Node.js</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
                         </article>
@@ -51,22 +37,36 @@ const Experience = () => {
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>MongoDB</h4>
+                                <h4>Bootstrap</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>MaterialUI</h4>
                                 <small className='' text-light>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>Express</h4>
+                                <h4>JSX</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>jQuery</h4>
                                 <small className='' text-light>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>Node.js</h4>
-                                <small className='' text-light>Intermediate</small>
+                                <h4>HTML/CSS</h4>
+                                <small className='' text-light>Experienced</small>
                             </div>
                         </article>
                     </div>
@@ -75,26 +75,102 @@ const Experience = () => {
                 {/* END OF DEV  */}
 
                 <div className="epxerience__automation">
+                    <h3>DevOps Engineering</h3>
+                    <div className="experience__content">
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Linux: Fedora, CentOs, Ubuntu</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>VMs & Servers</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Shell, Bash</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Docker, Kubernetes</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>AWS, MS Azure</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Terraform, YAML</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Ansible</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Containerize & Monitor</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+
+                <div className="epxerience__automation">
                     <h3>Automation Architect</h3>
                     <div className="experience__content">
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>Selenium Java</h4>
+                                <h4>Selenium, Appium : Java</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>Cypress / WebdriverIO / JS</h4>
+                                <h4>Cypress, WebdriverIO, Jest :  JS</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>BDD / TDD</h4>
+                                <h4>BDD, TDD</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Cucumber, Gherkin</h4>
+                                <small className='' text-light>Experienced</small>
+                            </div>
+                        </article>
+                        <article className='experience__details'>
+                            <BsFillPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Web, Mobile, API</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
                         </article>
@@ -108,33 +184,21 @@ const Experience = () => {
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>AWS / MS Azure</h4>
+                                <h4>Robot : Python</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
                         </article>
                         <article className='experience__details'>
                             <BsFillPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>DevOps</h4>
-                                <small className='' text-light>Experienced</small>
-                            </div>
-                        </article>
-                        <article className='experience__details'>
-                            <BsFillPatchCheckFill className='experience__details-icon' />
-                            <div>
-                                <h4>Robot / Python</h4>
-                                <small className='' text-light>Experienced</small>
-                            </div>
-                        </article>
-                        <article className='experience__details'>
-                            <BsFillPatchCheckFill className='experience__details-icon' />
-                            <div>
-                                <h4>API</h4>
+                                <h4>ELK/OLK Stack</h4>
                                 <small className='' text-light>Experienced</small>
                             </div>
                         </article>
                     </div>
                 </div>
+
+
                 {/* END OF AUTOMATION */}
 
                 <div className="epxerience__automation">
