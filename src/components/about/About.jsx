@@ -43,7 +43,7 @@ const About = () => {
                         <strong>Cloud platforms</strong> - AWS & MS Azure<br></br>
                         <strong>Operating Systems</strong> - Windows, MacOS, Linux, Ubuntu, Fedora, CentOS.<br></br>
                         <strong>Automation Architect</strong> - Java, Selenium, Appium, BDD, Cucumber, Gherkin, Page Object Model, Robot, Tosca, POSTMAN, ReadyAPI, MOCHA, Jest, CHAI, WebdriverIO, ELK / OLK Stack, Building CI /CD pipelines, JIRA, Keyword driven / Data driven/ Hybrid frameworks and more across Agile and Waterfall SDLC methodologies.<br></br>
-                        <strong>Data Science, ML and AI algorithms</strong> - AI/ML Alchemist providing guidance from fundamentals to advanced topics, excelling in evaluating predictive performance and navigating the landscape of deep learning. Python, Sci-kit learn, Tensorflow, Numpy, Pandas, Matplotlib, Seaborn, Decision Trees, KNNs, Logistic Regression, SVM, Neural Networks, CNN, Deep Learning, HyperParameters, Reinforcement Learning.
+                        <strong>Data Science, ML and AI algorithms</strong> - AI/ML Alchemist providing guidance from fundamentals to advanced topics, excelling in evaluating predictive performance and navigating the landscape of deep learning. Python, Sci-kit learn, Tensorflow, Numpy, Pandas, Matplotlib, Seaborn, Decision Trees, KNNs, Logistic Regression, SVM, Neural Networks, CNN, Deep Learning, HyperParameters & Reinforcement Learning.
                     </p>
                     <a href="#contact" className='btn btn-primary'>Let's Connect</a>
                 </div>
