@@ -23,27 +23,31 @@ const About = () => {
                         <article className='about__card'>
                             <FaAward className='about__icon' />
                             <h5>Experience</h5>
-                            <small>10+ Years Working</small>
+                            <small>14+ Years Working</small>
                         </article>
                         <article className='about__card'>
                             <FaUsersLine className='about__icon' />
                             <h5>Sectors</h5>
-                            <small>100+ worldwide</small>
+                            <small>Diverse sectors worldwide</small>
                         </article>
                         <article className='about__card'>
                             <LuFolderGit2 className='about__icon' />
                             <h5>Projects</h5>
-                            <small>90+ completed</small>
+                            <small>Heterogeneous Technology Landscape</small>
                         </article>
                     </div>
                     <p>
-                        Renowned as a Technical Virtuoso, I navigate the SDLC and STLC with precision.<br></br>
-                        <strong>DevOps Engineering</strong> - Linux(ARM & X86 architecture), Shell / Bash Scripting, Creating and Maintaining VMs & Servers, Vagrant, Rosetta, Developing and maintaining CI /CD pipelines, Containerization - Docker images & containers, Kubernetes, Terraform, YAML file configurations, GitHub Actions, Azure DevOps, AWS CodeBuild, AWS CodePipeline, Jenkins, Ansible.<br></br>
-                        <strong>Software Development</strong> - HTML, CSS, JavaScript, Node.js, ReactJS, JSX, jQuery, APIs, and Bootstrap.<br></br>
-                        <strong>Cloud platforms</strong> - AWS & MS Azure<br></br>
-                        <strong>Operating Systems</strong> - Windows, MacOS, Linux, Ubuntu, Fedora, CentOS.<br></br>
-                        <strong>Automation Architect</strong> - Java, Selenium, Appium, BDD, Cucumber, Gherkin, Page Object Model, Robot, Tosca, POSTMAN, ReadyAPI, MOCHA, Jest, CHAI, WebdriverIO, ELK / OLK Stack, Building CI /CD pipelines, JIRA, Keyword driven / Data driven/ Hybrid frameworks and more across Agile and Waterfall SDLC methodologies.<br></br>
-                        <strong>Data Science, ML and AI algorithms</strong> - AI/ML Alchemist providing guidance from fundamentals to advanced topics, excelling in evaluating predictive performance and navigating the landscape of deep learning. Python, Sci-kit learn, Tensorflow, Numpy, Pandas, Matplotlib, Seaborn, Decision Trees, KNNs, Logistic Regression, SVM, Neural Networks, CNN, Deep Learning, HyperParameters & Reinforcement Learning.
+                        I am a seasoned technologist with a comprehensive skill set spanning DevOps Engineering, Software Development, Cloud Platforms, Automation Architecture, Data Science, and Project Management. With a proven track record of delivering high-value projects and leading successful teams, I navigate the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) with precision.<br></br><br></br>
+
+                        Proficient in Linux (ARM & x86 architecture), Python, and Shell/Bash scripting, I create and maintain Debian (Ubuntu) and RHEL (Fedora, CentOS) based VMs & servers, develop and maintain CI/CD pipelines, and leverage infrastructure as code with Terraform. I am experienced in containerization with Docker and Kubernetes and have expertise in configuration management tools like Ansible.<br></br><br></br>
+
+                        In Software Development, I am proficient in JavaScript, Node.js, ReactJS, JSX, jQuery, APIs, HTML, CSS, and Bootstrap. I have hands-on experience with AWS and Microsoft Azure cloud platforms, as well as various operating systems including Windows, MacOS, and Linux distributions.<br></br><br></br>
+
+                        In Automation Architecture, I excel in automation testing using Java, Selenium, Appium, BDD with Cucumber and Gherkin, and have knowledge in building CI/CD pipelines. I am well-versed in Agile and Waterfall SDLC methodologies.<br></br>
+
+                        My expertise extends to Data Science, ML, and AI Algorithms, where I leverage Python, Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, and various machine learning algorithms such as Decision Trees, KNNs, Logistic Regression, SVM, Neural Networks, and CNNs.<br></br><br></br>
+
+                        With a focus on continuous improvement and collaboration, I excel in delivering high-value, challenging projects, meeting deadlines, planning, management, stakeholder management, technical responses to RFPs, contributing towards bid work, presentations and managed projects across diverse domains and client portfolios spanning across diverse geographical locations, bringing a wealth of experience in understanding and addressing unique challenges and requirements. I am passionate about leveraging technology to drive innovation and deliver tangible business results. <br></br><br></br>
                     </p>
                     <a href="#contact" className='btn btn-primary'>Let's Connect</a>
                 </div>
