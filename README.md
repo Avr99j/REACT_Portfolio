@@ -4,7 +4,7 @@ This is a portfolio website showcasing projects developed by myself, built using
 
 ## Live Demo
 
-You can view the live demo of the portfolio website [here](https://avraaj-dev.netlify.app/).
+You can view the live demo of the portfolio website [here](http://www.avraaj.tech).
 
 ## Features
 
